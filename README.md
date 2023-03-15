@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/Osauyi/results-summary-component-main--32.git]
+- Live Site URL: [https://osauyi.github.io/results-summary-component-main--32/]
 
 ## My process
 
